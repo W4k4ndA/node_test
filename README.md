@@ -30,7 +30,7 @@ npm install
 
 ## Variables de entorno
 
-Crear un archivo `.env` en la raíz del proyecto segun el formato indicado en .env.template:
+Crear un archivo `.env` en la raíz del proyecto segun el formato indicado en `.env.template`:
 
 
 
