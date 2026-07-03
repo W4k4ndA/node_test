@@ -30,16 +30,9 @@ npm install
 
 ## Variables de entorno
 
-Crear un archivo `.env` en la raíz del proyecto:
+Crear un archivo `.env` en la raíz del proyecto segun el formato indicado en .env.template:
 
-```env
-MONGO_USER=w4k4nd4
-MONGO_PASS=123456abcd
-MONGO_DB_NAME=books
-MONGO_URL=mongodb://w4k4nd4:123456abcd@localhost:27017/books?authSource=admin
 
-PORT=4040
-```
 
 ## Ejecución local con MongoDB en Docker
 
