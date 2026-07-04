@@ -2,6 +2,11 @@
 
 API REST con Node.js, Express y MongoDB para gestionar libros.
 
+## Vista previa publica de la app
+La aplicacion esta montada en railway solo para probar tambien el uso de un sistema de cloud sencillo y gratuito.
+Puedas verla [haciendo click aqui](https://nodetest-production-d35a.up.railway.app/books).
+
+
 ## Tecnologías
 
 - Node.js (ES Modules)
